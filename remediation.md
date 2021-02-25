@@ -58,7 +58,7 @@ If you're working with an Amazon Web Services (AWS) or Azure account, you can us
 Before you get started, be sure that you have the following prerequisites.
 
 - An [installed collector](/docs/security-compliance?topic=security-compliance-collector).
-- A [scope](/docs/security-compliance?topic=security-compliance-scopes) that is targeted to AWS.
+- A [scope](/docs/security-compliance?topic=security-compliance-scopes) that is targeted to respective Cloud (IBM Cloud/Azure/AWS/GCP) or on-prem environment.
 - [Scan results](/docs/security-compliance?topic=security-compliance-view-posture#view-validations).
 - The required level of access to view and manage remediation. To manage remediation, you need the editor platform role or higher. For more information, see [Assigning access](/docs/security-compliance?topic=security-compliance-access-management).
 
